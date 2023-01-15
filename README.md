@@ -4,4 +4,9 @@ Screenshot <br>
 <br>
 Leave a star🌟🌟🌟 if you like this project😊
 <br/>
-<a href="https://htmlpreview.github.io/?https://github.com/tauseedzaman/password-generator/blob/main/password_generator.html" > click here for preview </a> 
+<a href="https://password.tauseedzaman.com/" > click here for preview </a> 
+or
+---
+
+
+[https://password.tauseedzaman.com/](https://password.tauseedzaman.com/)
